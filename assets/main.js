@@ -39,7 +39,7 @@ async function fetchData(urlApi) {
   </div>    
     `
       )
-      .slice(0, 4)
+      .slice(0, 8)
       .join("")}
 
 `;
